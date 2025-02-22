@@ -9,6 +9,10 @@ Este repositório está organizado da seguinte forma:
 - **aulas/**: Pasta que contém os códigos das aulas teóricas.
 - **praticas/**: Pasta que contém os códigos das atividades práticas.
 
+# Pratica_01
+
+1. Criação do git e repositório.
+
 ## Comandos Básicos do NPM
 
 Aqui estão alguns comandos básicos do NPM (Node Package Manager) que podem ser úteis durante o desenvolvimento de aplicações frontend.
