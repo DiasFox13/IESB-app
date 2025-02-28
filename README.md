@@ -12,6 +12,10 @@ Este repositório está organizado da seguinte forma:
 # Pratica_01
 
 1. Criação do git e repositório.
+2. Alteração no package.json >>> "dev": "node index.js"
+3. Criação do arquivo >>> tarefas.js
+4. Implementação do arquivo >>> index.js
+    4.1. Fazer um menu com 5 opções operacionais a partir dos dados fornecidos pelo arquivo >>> tarefas.js .
 
 ## Comandos Básicos do NPM
 
